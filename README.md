@@ -1,3 +1,8 @@
+#IMPORTANT
+
+You can find the population.txt file under the releases
+
+
 ####Healthcare-Data-Analysis
 
 #Overview
@@ -35,7 +40,5 @@ Matplotlib
 
 SciPy
 
-#IMPORTANT
 
-You can find the population.txt file under the releases
 
