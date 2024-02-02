@@ -35,3 +35,7 @@ Matplotlib
 
 SciPy
 
+#IMPORTANT
+
+You can find the population.txt file under the releases
+
